@@ -1,0 +1,292 @@
+@media (max-width:767px) {
+    .custom__banner .banner__text h2 {
+        width: 100%;
+        font-size: 26px;
+        padding-top: 40px;
+    }
+    .custom__banner .banner__text p {
+        margin: 0;
+        font-size: 22px;
+        line-height: normal;
+    }
+    .custom__navbar .navbar .navbar-brand img {
+        max-width: 90px;
+    }
+    .banner__text a.h_btn {
+        font-size: 12px;
+        background: linear-gradient(266.57deg, #EF0FD7 5.12%, #0075FF 96.41%);
+        box-shadow: 0px 4px 97px rgb(255 86 246 / 51%);
+        backdrop-filter: blur(192px);
+        border-radius: 4px;
+    }
+    a.light_btn {
+        background: rgba(255, 255, 255, 0.03);
+        border: 1px solid #EF0FD7;
+        box-sizing: border-box;
+        box-shadow: 0px 4px 97px rgb(255 86 246 / 51%);
+        backdrop-filter: blur(192px);
+        border-radius: 4px;
+        font-size: 12px;
+    }
+    .custom__banner .banner__text p {
+        margin: 0;
+        font-family: 'Source Sans Pro';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: normal;
+        letter-spacing: -0.03em;
+        color: #FFFFFF;
+        margin-bottom: 20px;
+    }
+    .custom__banner::before {
+        left: 0;
+        background-size: cover;
+        top: 0;
+    }
+    .banner__image img {
+        width: 100%;
+    }
+    .safeversbyZyna_wrapper .zyna__content h4 {
+        font-size: 20px;
+        text-align: left;
+    }
+    .banner__image {
+        margin-top: 40px;
+    }
+    .vr_reality .vr_content .vr__content h2 {
+        max-width: 100%;
+        font-size: 40px;
+        line-height: normal;
+        margin-bottom: 10px;
+    }
+    .vr_reality .vr_content .vr__content p {
+        font-size: 20px;
+        line-height: normal;
+        max-width: 100%;
+    }
+    .why__safeverse .para {
+        max-width: 100%;
+        font-size: 20px;
+        line-height: normal;
+    }
+    .future__Wrapper p.para {
+        font-size: 18px;
+        line-height: normal;
+    }
+    .macbook img {
+        width: 100%;
+    }
+    .top_header {
+        background: rgba(0, 0, 0, 0.07);
+        border: 1px solid #EF0FD7;
+        box-sizing: border-box;
+        box-shadow: 0px 10px 40px rgb(255 86 246 / 51%);
+        backdrop-filter: blur(11px);
+        border-radius: 4px;
+        width: 149px;
+        height: 56px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0;
+    }
+    .scroll {
+        text-align: center;
+        margin-top: -120px;
+        display: none;
+    }
+    .custom__banner {
+        position: relative;
+        padding: 0px 0 50px;
+        height: auto;
+    }
+    .ar_vr img {
+        width: 100%;
+    }
+    .custom__banner::before {
+        left: -50px;
+        background-size: cover;
+        top: 26px;
+        height: 320px;
+        width: 470px;
+        right: 0;
+    }
+    .safeverse__wrapper::after {
+        width: 133px;
+        height: 133px;
+        right: -76px;
+        top: -40px;
+        bottom: 0;
+    }
+    .team__box {
+        background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) -1.52%, rgba(255, 255, 255, 0.024) 104.35%);
+        backdrop-filter: blur(40px);
+        padding: 10px;
+        margin: 10px;
+        border-radius: 10px;
+    }
+    .team__box::before,
+    .tokenomics__wrapper .innerTekenomice__wrapper::before,
+    .tokenomics__wrapper::after {
+        display: none;
+    }
+    .tokenomics__wrapper {
+        padding: 0;
+    }
+    .notification__banner .inner_noti {
+        background-size: 100% 100%;
+        padding: 20px;
+    }
+    .tokenomics__wrapper h2 {
+        font-size: 28px;
+        text-align: center;
+    }
+    .tokenomics__wrapper .innerTekenomice__wrapper {
+        padding: 0;
+    }
+    .tokenomics__wrapper .innerTekenomice__wrapper .teke__tbl {
+        position: relative;
+        overflow: auto;
+    }
+    .tokenomics__wrapper .innerTekenomice__wrapper table thead tr th {
+        padding: 20px 40px;
+        white-space: nowrap;
+    }
+    .tokenomics__wrapper .innerTekenomice__wrapper table tbody tr td {
+        vertical-align: middle;
+        white-space: nowrap;
+    }
+    .notification__banner .inner_noti h3 {
+        font-size: 30px;
+    }
+    .tokenomics__wrapper {
+        padding: 0;
+        margin: 100px 0 50px;
+    }
+    .footer .inner__footer {
+        grid-template-columns: 1fr;
+        gap: 40px;
+        align-items: center;
+        justify-content: center;
+    }
+    .footer .inner__footer .footer_1 {
+        padding: 0;
+    }
+    .footer .inner__footer .footer_3 .nav__adderss p span {
+        white-space: nowrap;
+    }
+    .footer {
+        padding: 50px 0;
+    }
+    .notification__banner .inner_noti p {
+        font-size: 13px;
+        line-height: normal;
+        margin: 0;
+    }
+}
+
+@media (min-width:768px) and (max-width:1024px) {
+    .custom__banner::before {
+        top: 20px;
+    }
+    .custom__banner .col-md-6,
+    .vr_content .col-md-6 {
+        width: 100% !important;
+        padding: 40px 20px;
+    }
+    .custom__banner .banner__text h2 {
+        width: 100%;
+    }
+    .banner__image img {
+        width: 100%;
+    }
+    .scroll {
+        display: none;
+    }
+    .whysafeverse__box .col-md-4,
+    .clientable__box_wrapper .col-md-4 {
+        width: 100%;
+        max-width: 50%;
+        justify-content: center;
+        align-items: center;
+    }
+    .macbook img {
+        width: 100%;
+    }
+    .vr_content .row.align-items-center {
+        justify-content: center;
+    }
+    .vr_content .row.align-items-center .col-md-8 {
+        width: 100%;
+    }
+    .team__box::before,
+    .tokenomics__wrapper .innerTekenomice__wrapper::before,
+    .tokenomics__wrapper::after {
+        display: none;
+    }
+    .tokenomics__wrapper {
+        padding: 0;
+    }
+    .notification__banner .inner_noti {
+        background-size: 100% 100%;
+        padding: 20px;
+    }
+    .tokenomics__wrapper h2 {
+        font-size: 28px;
+        text-align: center;
+    }
+    .tokenomics__wrapper .innerTekenomice__wrapper {
+        position: relative;
+        overflow: auto;
+    }
+    .tokenomics__wrapper .innerTekenomice__wrapper table thead tr th {
+        padding: 20px 40px;
+        white-space: nowrap;
+    }
+    .tokenomics__wrapper .innerTekenomice__wrapper table tbody tr td {
+        vertical-align: middle;
+        white-space: nowrap;
+    }
+    .notification__banner .inner_noti h3 {
+        font-size: 30px;
+    }
+    .tokenomics__wrapper {
+        padding: 0;
+        margin: 100px 0 50px;
+    }
+    .footer .inner__footer {
+        grid-template-columns: 1fr;
+        gap: 40px;
+        align-items: center;
+        justify-content: center;
+    }
+    .footer .inner__footer .footer_1 {
+        padding: 0;
+    }
+    .footer .inner__footer .footer_3 .nav__adderss p span {
+        white-space: nowrap;
+    }
+    .footer {
+        padding: 50px 0;
+    }
+    .notification__banner .inner_noti p {
+        font-size: 13px;
+        line-height: normal;
+        margin: 0;
+    }
+    .team__box {
+        background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) -1.52%, rgba(255, 255, 255, 0.024) 104.35%);
+        backdrop-filter: blur(40px);
+        padding: 10px;
+        margin: 10px;
+        border-radius: 10px;
+    }
+    .meet__the_team__wrapper .col-md-4 {
+        width: 100%;
+        max-width: 50%;
+    }
+    .team__box {
+        width: 100%;
+    }
+}
