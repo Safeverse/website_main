@@ -29,6 +29,12 @@ body {
     
 
 }
+
+.link-box {
+
+    text-decoration: none !important;
+    
+}
 .mint-block  {
 
     padding-top: 2em;
